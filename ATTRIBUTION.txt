@@ -1,0 +1,18 @@
+Встроенные списки Lockflow собраны из открытых источников.
+
+UT1 Blacklists, Université Toulouse 1 Capitole, лицензия CC BY-SA 4.0
+  https://dsi.ut-capitole.fr/blacklists/  (зеркало: github.com/olbat/ut1-blacklists)
+  Используется для: malware, phishing, ads, tracking, porn, adult, gambling,
+  drugs, aggression, games, vpn, torrents, video.
+
+The Block List Project, Unlicense
+  https://github.com/blocklistproject/Lists
+  Используется для: malware, ads, tracking, drugs, torrents.
+
+Re-filter-lists (домены из реестра Роскомнадзора, зеркало сообщества)
+  https://github.com/1andrevich/Re-filter-lists
+  Используется для: registry. Список неофициальный: для проверки по закону
+  сверяйтесь с официальной выгрузкой Роскомнадзора.
+
+Списки составлены сообществом и могут содержать ошибки. Если нужный сайт
+попал в категорию зря, его можно разрешить правилом «allow» выше блокирующего.
